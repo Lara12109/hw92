@@ -1,0 +1,18 @@
+body{
+    background-color: #F8E357;
+}
+h1,h4{
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    color: darkred;
+}
+
+h3{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+.login_div1,.login_div2{
+    background-color: #FCAD4D;
+    padding: 10px;
+    margin-top: 20px;
+    border-radius: 15px;
+}
